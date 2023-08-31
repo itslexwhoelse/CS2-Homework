@@ -36,7 +36,7 @@ public class Main {
 
         alt shift lets you select multiple lines and type at once, just found that out so i could center all the text at once. cool
 
-        also trying to learn how to use github lol. one day it will work..
+        also trying to learn how to use github lol. one day it will work.. mm
       */
     }
 }
